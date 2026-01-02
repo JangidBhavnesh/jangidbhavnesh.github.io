@@ -4,8 +4,8 @@ description: Personal website of Bhavnesh Jangid
 url: "https://jangidbhavnesh.github.io"
 markdown: kramdown
 header_pages:
-  - about.md
-  - publications.md
-  - research-projects.md
-  - code-contributions.md
-  - blog.md
+  - About/index.md
+  - Publications/index.md
+  - Projects/index.md
+  - Code/index.md
+  - Blog/index.md
