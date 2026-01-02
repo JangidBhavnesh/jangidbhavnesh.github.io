@@ -9,9 +9,9 @@ List of my publications.
 
 ---
 13. **The Modern Era of Multireference Methods for Chemistry and Materials Science** <br>
-Authors: Wardzala, J.; Hennefarth, M.; Agarawal, V.; **Jangid, B.**; Seal, A.; Hermes, M.; King, D.; Gagliardi, L. <br>
+Authors: Wardzala, J.; Hennefarth, M.; Agarawal, V.; **Jangid, B.**; ... and ; Gagliardi, L. <br>
 Publication Number: 13 <br>
-<i>To cite:</i> ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-h9c6z <br>
+To cite:</i> ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-h9c6z <i> <br>
 [DOI](https://doi.org/10.26434/chemrxiv-2025-h9c6z)<br>
 [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/68c6238b3e708a7649ebf83a)<br>
 
