@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code Contribution
-weight: 5
+weight: 4
 permalink: /code-contribution/
 ---
 
