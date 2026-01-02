@@ -3,3 +3,9 @@ theme: minima
 description: Personal website of Bhavnesh Jangid
 url: "https://bhavneshjangid.github.io"
 markdown: kramdown
+header_pages:
+  - about/index.md
+  - publications/index.md
+  - research-projects/index.md
+  - code-contributions/index.md
+  - blog/index.md

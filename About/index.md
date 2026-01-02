@@ -18,7 +18,7 @@ Not your usual cricket aficionado, in my spare time—when my computational jobs
 - High performance computing
 
 ## Contact
-- Email:jangidbhavnesh@uchicago.edu
+- [Email](jangidbhavnesh@uchicago.edu)
 - [GitHub](https://github.com/jangidbhavnesh)
 - [Google-Scholar](https://scholar.google.com/citations?hl=en&user=RTrs5bkAAAAJ&view_op=list_works&sortby=pubdate)
 
