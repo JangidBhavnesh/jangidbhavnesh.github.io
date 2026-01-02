@@ -30,7 +30,7 @@ To cite:<i> J. Chem. Theory Comput. 2025, XXXX, XXX, XXX–XXX</i> [[Full Citati
 [Code and Example](https://github.com/JangidBhavnesh/pyscf-forge/tree/qdptsoclpdft)<br>
 
 10. **Bridging the gap between molecules and materials in quantum chemistry with localized active spaces** <br>
-Authors: **Jangid, B.**; King, D.; Hermes, M.; Gagliardi, L. <br>
+Authors: **Jangid, B.\***; King, D.\*; Hermes, M.; Gagliardi, L. <br>
 Publication Number: 10 <br>
 To cite:<i> Nat. Commun. 16, 10832, 2025</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:_lXd4-BAZgYJ:scholar.google.com/#d=gs_cit&t=1767387005772&u=%2Fscholar%3Fq%3Dinfo%3A_lXd4-BAZgYJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den) <br>
 [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/66d0eb29f3f4b052908f6af7)<br>
@@ -79,7 +79,7 @@ To cite:</i> BAGH: A Quantum Chemistry Software Package </i><br>
 [Code](https://sites.google.com/iitb.ac.in/bagh)<br>
 
 3. **Efficient State-Specific Natural Orbital Based EOM-CC for Core-Ionization Energies: Theory, Implementation, and Benchmark** <br>
-Authors: **Jangid, B.**; Manna, A.; Pant, R.; Dutta, A. K. <br>
+Authors: **Jangid, B.\***; Manna, A.\*; Pant, R.; Dutta, A. K. <br>
 Publication Number: 3 <br>
 To cite:</i> J. Chem. Theory Comput. 2024, 20, 15, 6604–6620</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11516247467011171246#d=gs_cit&t=1767383760112&u=%2Fscholar%3Fq%3Dinfo%3ArmOxOA7u0Z8J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den) <br>
 [DOI](https://doi.org/10.1021/acs.jctc.4c00546)<br>
