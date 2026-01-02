@@ -75,13 +75,13 @@ To cite:<i> J. Am. Chem. Soc. 2024, 146, 17, 12063–12073</i> [[Full Citation]]
 4. **BAGH: A Quantum Chemistry Software Package** <br>
 Authors: Dutta, A.; Manna, A.; **Jangid, B.**; Chamoli, S.; Surjuse, K.; et al. <br>
 Publication Number: 4 <br>
-To cite:</i> BAGH: A Quantum Chemistry Software Package </i><br>
+To cite:<i> BAGH: A Quantum Chemistry Software Package </i><br>
 [Code](https://sites.google.com/iitb.ac.in/bagh)<br>
 
 3. **Efficient State-Specific Natural Orbital Based EOM-CC for Core-Ionization Energies: Theory, Implementation, and Benchmark** <br>
 Authors: **Jangid, B.\***; Manna, A.\*; Pant, R.; Dutta, A. K. <br>
 Publication Number: 3 <br>
-To cite:</i> J. Chem. Theory Comput. 2024, 20, 15, 6604–6620</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11516247467011171246#d=gs_cit&t=1767383760112&u=%2Fscholar%3Fq%3Dinfo%3ArmOxOA7u0Z8J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den) <br>
+To cite:<i> J. Chem. Theory Comput. 2024, 20, 15, 6604–6620</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11516247467011171246#d=gs_cit&t=1767383760112&u=%2Fscholar%3Fq%3Dinfo%3ArmOxOA7u0Z8J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den) <br>
 [DOI](https://doi.org/10.1021/acs.jctc.4c00546)<br>
 [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6621687021291e5d1d1df8a4)<br>
 [Code and Example](https://sites.google.com/iitb.ac.in/bagh)<br>
@@ -89,13 +89,13 @@ To cite:</i> J. Chem. Theory Comput. 2024, 20, 15, 6604–6620</i> [[Full Citati
 2. **State-specific frozen natural orbital for reduced-cost algebraic diagrammatic construction calculations: The application to ionization problem** <br>
 Authors: Mukhopadhyay, T.; **Jangid, B.**; Dutta, A. K. <br>
 Publication Number: 2 <br>
-To cite:</i> J. Chem. Phys. 159, 084113, 2023</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3375928818206032862#d=gs_cit&t=1767385383264&u=%2Fscholar%3Fq%3Dinfo%3A3sMsrF-12S4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den) <br>
+To cite:<i> J. Chem. Phys. 159, 084113, 2023</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3375928818206032862#d=gs_cit&t=1767385383264&u=%2Fscholar%3Fq%3Dinfo%3A3sMsrF-12S4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den) <br>
 [Code and Example](https://sites.google.com/iitb.ac.in/bagh)<br>
 
 1. **A Reduced Cost Four-Component Relativistic Coupled Cluster Method Based on Natural Spinor** <br>
 Authors: Chamoli, S.; Surjuse, K.; **Jangid, B.**; Nayak, M. K.; Dutta, A. K. <br>
 Publication Number: 1 <br>
-To cite:</i> J. Chem. Theory Comput. 2025, XXXX, XXX, XXX–XXX</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11516247467011171246#d=gs_cit&t=1767383760112&u=%2Fscholar%3Fq%3Dinfo%3ArmOxOA7u0Z8J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den) <br>
+To cite:<i> J. Chem. Theory Comput. 2025, XXXX, XXX, XXX–XXX</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11516247467011171246#d=gs_cit&t=1767383760112&u=%2Fscholar%3Fq%3Dinfo%3ArmOxOA7u0Z8J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den) <br>
 [DOI](https://doi.org/10.1063/5.0085932)<br>
 [Preprint](https://arxiv.org/abs/2201.07752)<br>
 [Code and Example](https://sites.google.com/iitb.ac.in/bagh)<br>
