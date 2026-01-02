@@ -90,6 +90,7 @@ To cite:<i> J. Chem. Theory Comput. 2024, 20, 15, 6604–6620</i> [[Full Citatio
 Authors: Mukhopadhyay, T.; **Jangid, B.**; Dutta, A. K. <br>
 Publication Number: 2 <br>
 To cite:<i> J. Chem. Phys. 159, 084113, 2023</i> [[Full Citation]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3375928818206032862#d=gs_cit&t=1767385383264&u=%2Fscholar%3Fq%3Dinfo%3A3sMsrF-12S4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den) <br>
+[DOI](https://doi.org/10.1063/5.0160024)<br>
 [Code and Example](https://sites.google.com/iitb.ac.in/bagh)<br>
 
 1. **A Reduced Cost Four-Component Relativistic Coupled Cluster Method Based on Natural Spinor** <br>
