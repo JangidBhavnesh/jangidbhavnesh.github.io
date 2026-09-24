@@ -56,7 +56,7 @@ To cite:<i> J. Chem. Theory Comput. 2026, 22, 1, 318–333</i> <br>
 [Code and Example](https://github.com/JangidBhavnesh/pyscf-forge/tree/qdptsoclpdft)<br>
 
 10. **Bridging the gap between molecules and materials in quantum chemistry with localized active spaces** <br>
-Authors: **Jangid, B.\***; King, D.\*; Hermes, M.; Gagliardi, L. <br>
+Authors: King, D.\*; **Jangid, B.\***; Hermes, M.; Gagliardi, L. <br>
 Publication Number: 10 <br>
 To cite:<i> Nat. Commun. 16, 10832, 2025</i> <br>
 [DOI](https://doi.org/10.1038/s41467-025-65846-1)<br>
