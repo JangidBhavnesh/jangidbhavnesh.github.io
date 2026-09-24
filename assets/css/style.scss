@@ -1,0 +1,84 @@
+---
+---
+@import "minima";
+
+.pub-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1.1rem 1.3rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.pub-card .pub-thumb {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+  background: #f2f2f2;
+}
+
+.pub-card .pub-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-num {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #999;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.3rem;
+}
+
+.pub-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 0.5rem;
+}
+
+.pub-authors {
+  font-size: 0.95rem;
+  color: #333;
+  margin: 0 0 0.4rem;
+}
+
+.pub-cite {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0 0 0.6rem;
+}
+
+.pub-links a {
+  display: inline-block;
+  margin: 0.15rem 0.4rem 0.15rem 0;
+  padding: 0.25rem 0.7rem;
+  border: 1px solid #999;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  text-decoration: none;
+  color: #333;
+}
+
+.pub-links a:hover {
+  background: #333;
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .pub-card {
+    flex-direction: column;
+  }
+
+  .pub-card .pub-thumb {
+    width: 100%;
+    height: 160px;
+  }
+}
